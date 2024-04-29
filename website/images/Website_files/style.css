@@ -1,0 +1,41 @@
+*html{
+    margin: 0;
+    padding:0 ;
+}
+
+
+#p1{
+    color: rgb(214, 223, 231);
+    padding: 10% 10% 10% 10%;
+}
+.navbar{
+    background-color: aqua;
+}
+.navbar-brand{
+    font-size: 50px;
+    font-weight: 600;
+    color: rgb(50, 194, 204);
+}
+.nav-item a{
+    color: cornflowerblue;
+}
+#nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10px;
+}
+/* syling homepage */
+#home{
+    padding-top: 5%;
+    background-color: royalblue;
+
+}
+#btn{
+    width: 200px;
+    background-color: rgb(50, 194, 204);
+    color: white;
+    border-radius: 20%;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
