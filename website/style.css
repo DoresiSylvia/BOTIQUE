@@ -1,0 +1,49 @@
+*html{
+    margin: 0;
+    padding:0 ;
+}
+
+
+#p1{
+    color: rgb(214, 223, 231);
+    padding: 10% 10% 10% 10%;
+}
+.navbar{
+    background-color: aqua;
+}
+.navbar-brand{
+    font-size: 50px;
+    font-weight: 600;
+    color: rgb(211, 9, 9);
+}
+.nav-item a{
+    color: rgb(134, 24, 24);
+}
+#nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10px;
+}
+/* syling homepage */
+#home{
+    padding-top: 5%;
+    background-color: rgb(243, 71, 71);
+
+}
+#btn{
+    width: 200px;
+    background-color: rgb(233, 89, 22);
+    color: white;
+    border-radius: 20%;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+/* STYLING PRODUCTS */
+#PRODUCTS{
+    color: white(9, 181, 211);
+    background-color: crimson;
+}
+.streetwear{
+    font-weight: bold;
+}
